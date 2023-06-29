@@ -1,8 +1,8 @@
 # lab-APIs
 
-En la clase de hoy hemos visto como hacer una llamada a una API, en concreto a la API de AEMET. En el lab de hoy tendréis: 
+En la clase de hoy hemos visto como hacer una llamada a una API, en concreto a la API de YouTube. En el lab de hoy tendréis: 
 
-- Elegir una API que hoy guste. Recordad que [aquí](https://github.com/public-apis/public-apis) tenéis este repo con muchas APIs publicas gratis que querais, pero podéis elegir otra si lo queréis. 
+- Elegir una API que hoy guste. Recordad que [aqui](https://github.com/public-apis/public-apis) tenéis este repo con muchas APIs publicas gratis que querais, pero podéis elegir otra si lo queréis. 
 
 - Hacer una llamada a la API y bajarnos datos. 
 
