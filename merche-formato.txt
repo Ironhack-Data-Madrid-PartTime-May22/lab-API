@@ -1,0 +1,40 @@
+{'vehicleSortId': 1100000, 
+'context': {'market': {'country': 'AF', 'marketId': 'en_AF', 'language': 'en'}, 
+
+'salesLevel': 'INTERNET', 
+'configurationDate': '2023-06-28', 
+'pricingDate': '2023-06-28'}, 
+'modelId': '2132611', 
+'internalModelSeries': 'S213', 
+'typeClass': 'S213', 
+'name': 'Mercedes-AMG E 53 4MATIC+ Estate', 
+'shortName': 'Mercedes-AMG E 53 4MATIC+ Estate', 
+'brand': {'name': 'Mercedes-AMG'}, 
+'baumuster': '2132611', 
+'baumuster6': '213261', 
+'baureihe': '213', 
+'nationalSalesType': '', 
+
+'vehicleClass': {'classId': 'E-KLASSE', 'className': 'E-Class', 
+
+'_links': {'self': 'https://api.mercedes-benz.com/configurator/v1/markets/en_AF/classes/E-KLASSE?apikey=a22ad2c0-9955-4cd5-a7c4-1fd587ced16c', 
+'models': 'https://api.mercedes-benz.com/configurator/v1/markets/en_AF/models?classId=E-KLASSE&apikey=a22ad2c0-9955-4cd5-a7c4-1fd587ced16c'}}, 
+
+'vehicleBody': {'bodyId': 'T-MODELL', 'bodyName': 'Estate', 
+'_links': {'self': 'https://api.mercedes-benz.com/configurator/v1/markets/en_AF/bodies/T-MODELL?apikey=a22ad2c0-9955-4cd5-a7c4-1fd587ced16c', 
+'models': 'https://api.mercedes-benz.com/configurator/v1/markets/en_AF/models?bodyId=T-MODELL&apikey=a22ad2c0-9955-4cd5-a7c4-1fd587ced16c'}},
+
+'modelYear': '803', 
+'changeYear': '053', 
+'productGroup': 'PKW', 
+'productDivision': 0, 
+'lifeCycle': 'Modification year', 
+'facelift': True, 
+'allTerrain': False, 
+'customerGroups': ['PRIVATE'], 
+
+'priceInformation': {'price': 76475, 'netPrice': 76475, 'currency': 'EUR', 'taxes': []}, 
+'steeringPosition': 'LEFT', 
+'validationStatus': {'valid': True}, 
+'_links': {'self': 'https://api.mercedes-benz.com/configurator/v1/markets/en_AF/models/2132611?apikey=a22ad2c0-9955-4cd5-a7c4-1fd587ced16c', 
+'configurations': 'https://api.mercedes-benz.com/configurator/v1/markets/en_AF/models/2132611/configurations/initial?apikey=a22ad2c0-9955-4cd5-a7c4-1fd587ced16c'}}
